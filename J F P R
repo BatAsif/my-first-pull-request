@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main()
+{
+   // printf() displays the string inside quotation
+   printf("Just for a pull request..");
+   return 0;
+}
